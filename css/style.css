@@ -9,3 +9,28 @@ body{
     color: #243247;
 
 }
+header{
+    background-color: #12304a;
+    color:white;
+    padding: 20px 8%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+}
+.hero {
+    padding: 100px 20px;
+    min-height: 80vh;
+    text-align: center;
+}
+.hero h2 {
+   font-size: 40px;
+   color: #12304a;
+}
+.hero p {
+    line-height: 1.7;
+}
